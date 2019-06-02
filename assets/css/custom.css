@@ -468,11 +468,11 @@ button.btn.btn-navbar, .navbar-inverse .btn-navbar:hover, .navbar-inverse .btn-n
     display: none;
 }
 .container.masthead .btn {
-    background: #FFD900;
+    background: #156f9c;
     border-width: 1px;
     border-style: solid;
     border-color: #666466;
-    color: #191919;
+    color: #fbfbfb;
     text-shadow: none;
     -webkit-box-shadow: none;
     box-shadow: none;
