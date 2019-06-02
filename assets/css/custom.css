@@ -371,6 +371,7 @@ body > .navbar .brand {
     background-color: #122847;
     background: #122847;
     border-bottom: 3px solid #f6cb44;
+    border-top: 3px solid #f6cb44;
     }
 span.title {
     color: #fbfbfb;
